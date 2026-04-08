@@ -32,3 +32,8 @@ A conversational chatbot that lets you upload a PDF and ask questions about its 
 
 ## Get Groq API Key
 Sign up free at https://console.groq.com
+
+## Screenshot
+
+<img width="1193" height="359" alt="Screenshot 2026-04-09 025524" src="https://github.com/user-attachments/assets/7ed42243-795a-4872-9365-ef8aab320c0a" />
+
